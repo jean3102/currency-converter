@@ -1,0 +1,19 @@
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .sniperLoader {
+    border: 8px solid rgba(119, 128, 134, 0.475);
+    border-top: 8px solid rgb(67, 152, 67);
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    animation: spin 1s linear infinite;
+    margin-top: 1em;
+  }
+
+  .containerLoader {
+    display: flex;
+    justify-content: center;
+  }
