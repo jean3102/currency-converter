@@ -1,7 +1,7 @@
 
 # Currency Converter
 
-In the following repository I show an application to consume the apilayer.com API with react and typescript
+In the following repository, l show an application to consume the apilayer.com API with react and typescript
 
  ### Install dependencies
 
@@ -26,4 +26,4 @@ To run app, run the following command
 
 
 Runs the app in the development mode.\
-Open http://localhost:3030/home to view it in the browser.
+Open http://localhost:3030 to view it in the browser.
